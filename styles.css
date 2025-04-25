@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #a6af2d;
+    --laranja-claro: #000000;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #b3973d;
+    background-color: #ffffff;
 }
 
 
@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #9b9927;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -76,8 +76,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url(img/202005180555332wuIBs.jpg) top right no-repeat,
+        url(img/202005180555332wuIBs.jpg) bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -100,7 +100,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #667510;
+    background-color: #d4d4d4;
 
 }
 
@@ -118,22 +118,22 @@ h2 {
 }
 
 .formulario {
-    background-color: #504f1c;
+    background-color: #ffffff;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgb(127, 167, 63);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #b7cb43;
+    background-color: #000000;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #69792f;
+    background-color: #ffffff;
 }
