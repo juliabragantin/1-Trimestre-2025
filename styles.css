@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #a6af2d;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #b3973d;
 }
 
 
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #9b9927;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url(img/1c6797c269c9e214698fc63a4264caaa-St.\ Peter\'s\ Basilica.avif);
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -40,7 +40,7 @@ section {
 
 /* posicionamento para a imagem à direita */
 .img-inicio {
-    position: absolute;
+    position: static;
     right: 0;
     top: 18rem;
     width: 45rem;
@@ -100,7 +100,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #667510;
 
 }
 
@@ -118,22 +118,22 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #504f1c;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(127, 167, 63);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #b7cb43;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #69792f;
 }
